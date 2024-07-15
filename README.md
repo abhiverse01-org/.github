@@ -4,7 +4,7 @@
 
 [![GitHub Org's stars](https://img.shields.io/github/stars/abhiverse01-org?style=social)](https://github.com/abhiverse01-org)
 [![GitHub followers](https://img.shields.io/github/followers/abhiverse01-org?style=social)](https://github.com/abhiverse01-org)
-[![License](https://img.shields.io/github/license/abhiverse01-org?color=blue)](https://github.com/abhiverse01-org/blob/main/LICENSE)
+[![License](https://img.shields.io/github/license/abhiverse01-org?color=blue)](https://github.com/abhiverse01-org/.github/blob/main/LICENSE)
 
 ## About Us
 
