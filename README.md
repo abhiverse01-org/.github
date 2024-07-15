@@ -1,6 +1,6 @@
 # Welcome to Abhiverse01-org! 🤖🌌
 
-![Cover Image](assets/orgcover.png)
+![Cover Image](orgcover.png)
 
 [![GitHub Org's stars](https://img.shields.io/github/stars/abhiverse01-org?style=social)](https://github.com/abhiverse01-org)
 [![GitHub followers](https://img.shields.io/github/followers/abhiverse01-org?style=social)](https://github.com/abhiverse01-org)
