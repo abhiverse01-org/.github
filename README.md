@@ -4,9 +4,6 @@
 
 [![GitHub Org's stars](https://img.shields.io/github/stars/abhiverse01-org?style=social)](https://github.com/abhiverse01-org)
 [![GitHub followers](https://img.shields.io/github/followers/abhiverse01-org?style=social)](https://github.com/abhiverse01-org)
-
-[![Issues](https://img.shields.io/github/issues/abhiverse01-org)](https://github.com/abhiverse01-org/issues)
-[![Pull Requests](https://img.shields.io/github/issues-pr/abhiverse01-org)](https://github.com/abhiverse01-org/pulls)
 [![License](https://img.shields.io/github/license/abhiverse01-org?color=blue)](https://github.com/abhiverse01-org/blob/main/LICENSE)
 
 ## About Us
